@@ -1,8 +1,3 @@
-# Equity-ETF-Screener
-Equity &amp; ETF Screener – Python-based medium-term screening tool for NSE stocks and ETFs, integrating factor models with technical and fundamental indicators. Backtested over 5 years to outperform the NIFTY index by 23% CAGR, enabling data-driven portfolio allocation aligned with investment objectives and risk parameters.
-
-
-Nice — here’s a longer, GitHub-ready README-style description you can drop into your repo. I kept it professional, clear, and aligned with the resume text while adding useful sections (features, tech, usage, backtest notes) so a reviewer or recruiter immediately understands what the project does and how to run it.
 
 # Equity & ETF Screener — Medium-term NSE Screener
 
@@ -85,7 +80,3 @@ Built for practical portfolio decision-making: it converts raw price and fundame
 ## Contributing & contact
 
 Contributions and improvements welcome — open an issue or PR. For questions or to reproduce the Pantomath results, contact: `prithvik1969` (GitHub) or [prithvik1969@gmail.com](mailto:prithvik1969@gmail.com).
-
----
-
-Would you like this converted into a ready-to-save `README.md` file (I can generate the file content for you), or tailored to a slightly more technical audience (add code snippets and exact factor formulas)?
